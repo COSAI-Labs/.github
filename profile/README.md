@@ -1,4 +1,4 @@
-# COSAI
+# COSAI Labs
 
 The AI stack has five layers. Compute. Chip. Cloud. Model. And one layer that doesn't exist yet.
 
@@ -19,10 +19,6 @@ The AI stack has five layers. Compute. Chip. Cloud. Model. And one layer that do
 ---
 
 ## The moat is not code. It is what the system learns.
-
-`K(t) = ∫₀ᵗ n(τ) · ℓ(τ) · (1 − e^(−γ·q(τ))) dτ`
-
-Knowledge = volume of projects × learning rate × quality-gated retention. Linear effort. Nonlinear returns. Every build makes the next one better.
 
 The model is a commodity. The orchestration, memory, and coordination layer is the moat. Biology already solved general intelligence. We reverse-engineer it.
 
